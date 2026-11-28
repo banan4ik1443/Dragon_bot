@@ -1,4 +1,0 @@
-{
-  "name":"dragon-pvp-miniapp","version":"1.0.0","type":"module","scripts":{"start":"node backend/server.js"},
-  "dependencies":{"express":"^4.21.2","better-sqlite3":"^11.8.1","dotenv":"^16.4.7"}
-}
